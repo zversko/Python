@@ -1,0 +1,12 @@
+folderhome: /home/user
+folderin: ~/tst
+folderout: ~/out
+folderoutget: ./out
+folderoutlocal: /home/user/out
+typearch: zip
+filename: archtemp
+host: 0.0.0.0
+user: zvo
+password: 1234
+count: 5
+bs: 1M
